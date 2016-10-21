@@ -2,7 +2,12 @@
 
 ## About Me
 
-GRADUATING FROM NORTHWESTERN UNIVERSITY WITH A B.S. IN BIOMEDICAL ENGINEERING, I STARTED OFF MY INTEREST IN PROGRAMMING BY TEACHING MYSELF VBA TO SCRIPT MACROS AND APPLICATIONS WHEN I WAS WORKING AT AN ENVIRONMENTAL ENGINEERING FIRM AND A QUANTITATIVE TRADING HEDGE FUND. THE MACROS THAT I BUILT FOR THE ENGINEERING FIRM SAVED THEM NEARLY 200 HOURS OF DATA ENTRY PER WEEK AND THE APPLICATION I BUILT FOR THE QUANTITATIVE TRADING HEDGE FUND IS STILL BEING USED GLOBALLY BY THE SUPPORT STAFF. AFTER REALIZING THAT CODING IS WHAT I LOVE, I ATTENDED APP ACADEMY, A 1000-HOUR IMMERSIVE FULL-STACK WEB DEVELOPMENT BOOTCAMP WITH A <3% ACCEPTANCE RATE.
+  Graduating from Northwestern University with a B.S. in Biomedical Engineering, I started off my interest in programming by teaching myself VBA to script macros and applications when I was working at an environmental engineering firm and a quantitative trading hedge fund.
+
+  The macros that I built for the engineering firm saved them nearly 200 hours of data entry per week and the application I built for the quantitative trading hedge fund is still being used globally by the support staff.
+
+  After realizing that coding is what I love, I attended App Academy, a 1000-hour immersive full-stack web development bootcamp with a <3% acceptance rate.
+
 
 ## Projects
 
