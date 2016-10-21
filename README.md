@@ -6,15 +6,13 @@ GRADUATING FROM NORTHWESTERN UNIVERSITY WITH A B.S. IN BIOMEDICAL ENGINEERING, I
 
 ## Projects
 
-### RetroBox [RetroBox]
+### [RetroBox](https://www.retrobox.info)
 A full-stack web application using Ruby on Rails as its backend, PostgreSQL as its database, and React.js with a Redux architectural framework on the frontend.
 
-[RetroBox](https://www.retrobox.info)
-
-### Dungeoness Crab
+### [Dungeoness Crab](https://github.com/nryulkim/DungeonessCrab)
 A rogue-like dungeon crawling game that was made with JavaScript, HTML, and CSS.
 
-### TGauge
+### [TGauge](https://github.com/nryulkim/tgauge)
 A lightweight MVC framework / ORM Ruby gem that helps users organize their web projects.
 
 ## Skills
