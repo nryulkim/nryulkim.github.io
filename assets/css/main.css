@@ -91,6 +91,7 @@
 		justify-content: center;
 		width: 600px;
 		overflow: hidden;
+		margin: 0 auto;
 	}
 
 	.skills i{
@@ -100,6 +101,8 @@
 	.skills li{
 		width: 100px;
 		margin: 10px 20px;
+		display: flex;
+		flex-direction: column;
 	}
 
 	@media screen and (max-width: 1680px) {
