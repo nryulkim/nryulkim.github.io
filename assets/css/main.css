@@ -2502,6 +2502,10 @@
 			width: 48%;
 		}
 
+		.feature .content p {
+			color: #555;
+		}
+
 			.feature .content h3 {
 				margin-bottom: 0.5em;
 			}
